@@ -12,4 +12,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/gagannchandra/Leetcode/tree/master/0006-zigzag-conversion) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gagannchandra/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/gagannchandra/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
