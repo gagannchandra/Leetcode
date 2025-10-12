@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/gagannchandra/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0091-decode-ways](https://github.com/gagannchandra/Leetcode/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/gagannchandra/Leetcode/tree/master/0165-compare-version-numbers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gagannchandra/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2487-optimal-partition-of-string](https://github.com/gagannchandra/Leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/gagannchandra/Leetcode/tree/master/0091-decode-ways) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gagannchandra/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gagannchandra/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
