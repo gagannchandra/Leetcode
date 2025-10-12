@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/gagannchandra/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/gagannchandra/Leetcode/tree/master/0029-divide-two-integers) |
 | [1585-the-kth-factor-of-n](https://github.com/gagannchandra/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gagannchandra/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Number Theory
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/gagannchandra/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gagannchandra/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gagannchandra/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gagannchandra/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Counting
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/gagannchandra/Leetcode/tree/master/0029-divide-two-integers) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gagannchandra/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +68,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gagannchandra/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gagannchandra/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Combinatorics
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gagannchandra/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gagannchandra/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
