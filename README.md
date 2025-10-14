@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/gagannchandra/Leetcode/tree/master/0217-contains-duplicate) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gagannchandra/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2487-optimal-partition-of-string](https://github.com/gagannchandra/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gagannchandra/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/gagannchandra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/gagannchandra/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gagannchandra/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gagannchandra/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/gagannchandra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/gagannchandra/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Dynamic Programming
 |  |
