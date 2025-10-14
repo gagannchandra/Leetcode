@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gagannchandra/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gagannchandra/Leetcode/tree/master/0242-valid-anagram) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gagannchandra/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2487-optimal-partition-of-string](https://github.com/gagannchandra/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gagannchandra/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0006-zigzag-conversion](https://github.com/gagannchandra/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0091-decode-ways](https://github.com/gagannchandra/Leetcode/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/gagannchandra/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/gagannchandra/Leetcode/tree/master/0242-valid-anagram) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gagannchandra/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2487-optimal-partition-of-string](https://github.com/gagannchandra/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gagannchandra/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gagannchandra/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gagannchandra/Leetcode/tree/master/0242-valid-anagram) |
 | [0611-valid-triangle-number](https://github.com/gagannchandra/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Dynamic Programming
 |  |
