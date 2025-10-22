@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/gagannchandra/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gagannchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gagannchandra/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/gagannchandra/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2487-optimal-partition-of-string](https://github.com/gagannchandra/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gagannchandra/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gagannchandra/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/gagannchandra/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/gagannchandra/Leetcode/tree/master/0242-valid-anagram) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gagannchandra/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/gagannchandra/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gagannchandra/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2487-optimal-partition-of-string](https://github.com/gagannchandra/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gagannchandra/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/gagannchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/gagannchandra/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gagannchandra/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/gagannchandra/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gagannchandra/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gagannchandra/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gagannchandra/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/gagannchandra/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gagannchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/gagannchandra/Leetcode/tree/master/0611-valid-triangle-number) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/gagannchandra/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
