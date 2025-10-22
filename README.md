@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gagannchandra/Leetcode/tree/master/0001-two-sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gagannchandra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/gagannchandra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/gagannchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/gagannchandra/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/gagannchandra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/gagannchandra/Leetcode/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
