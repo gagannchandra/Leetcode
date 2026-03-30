@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gagannchandra/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gagannchandra/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2487-optimal-partition-of-string](https://github.com/gagannchandra/Leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gagannchandra/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gagannchandra/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gagannchandra/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gagannchandra/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gagannchandra/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2487-optimal-partition-of-string](https://github.com/gagannchandra/Leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gagannchandra/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gagannchandra/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/gagannchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/gagannchandra/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gagannchandra/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gagannchandra/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
