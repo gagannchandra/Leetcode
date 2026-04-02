@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gagannchandra/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gagannchandra/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gagannchandra/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/gagannchandra/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gagannchandra/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Counting
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0091-decode-ways](https://github.com/gagannchandra/Leetcode/tree/master/0091-decode-ways) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gagannchandra/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/gagannchandra/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gagannchandra/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1642-water-bottles](https://github.com/gagannchandra/Leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gagannchandra/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Matrix
+|  |
+| ------- |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/gagannchandra/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 <!---LeetCode Topics End-->
