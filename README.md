@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3242-count-elements-with-maximum-frequency](https://github.com/gagannchandra/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/gagannchandra/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gagannchandra/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/gagannchandra/Leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Counting
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gagannchandra/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/gagannchandra/Leetcode/tree/master/0611-valid-triangle-number) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/gagannchandra/Leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/gagannchandra/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gagannchandra/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gagannchandra/Leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/gagannchandra/Leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gagannchandra/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/gagannchandra/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/gagannchandra/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3982-maximum-walls-destroyed-by-robots](https://github.com/gagannchandra/Leetcode/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Combinatorics
 |  |
 | ------- |
