@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/gagannchandra/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gagannchandra/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gagannchandra/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2058-concatenation-of-array](https://github.com/gagannchandra/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gagannchandra/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/gagannchandra/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/gagannchandra/Leetcode/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/gagannchandra/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/gagannchandra/Leetcode/tree/master/1642-water-bottles) |
+| [2058-concatenation-of-array](https://github.com/gagannchandra/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gagannchandra/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/gagannchandra/Leetcode/tree/master/2197-decode-the-slanted-ciphertext) |
 ## Matrix
