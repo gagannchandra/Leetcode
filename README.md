@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/gagannchandra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gagannchandra/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gagannchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0906-walking-robot-simulation](https://github.com/gagannchandra/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/gagannchandra/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gagannchandra/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2487-optimal-partition-of-string](https://github.com/gagannchandra/Leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/gagannchandra/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/gagannchandra/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/gagannchandra/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0906-walking-robot-simulation](https://github.com/gagannchandra/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/gagannchandra/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/gagannchandra/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1580-shuffle-the-array](https://github.com/gagannchandra/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/gagannchandra/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0906-walking-robot-simulation](https://github.com/gagannchandra/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/gagannchandra/Leetcode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/gagannchandra/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/gagannchandra/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
